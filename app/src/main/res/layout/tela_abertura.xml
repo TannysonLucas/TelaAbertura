@@ -19,7 +19,7 @@
         android:id="@+id/button"
         android:layout_width="286dp"
         android:layout_height="42dp"
-        android:text="Button"
+        android:text="Bug"
         tools:layout_editor_absoluteX="50dp"
         tools:layout_editor_absoluteY="298dp" />
 
